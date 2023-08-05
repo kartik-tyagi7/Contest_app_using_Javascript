@@ -1,4 +1,4 @@
-## Upcoming Programming Contest Fetcher
+# Upcoming Programming Contest Fetcher
 
 
 ## Introduction
